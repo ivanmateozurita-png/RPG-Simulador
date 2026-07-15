@@ -1,6 +1,6 @@
 # ⚔️ Epic RPG Battle Simulator (C++ Edition)
 
-¡Hola! Soy Mateo. Esta es la versión nativa en **C++** de mi simulador interactivo de batallas RPG. 
+Esta es la versión nativa en **C++** de mi simulador interactivo de batallas RPG. 
 
 Diseñé e implementé este juego con el propósito de demostrar mi dominio de la **arquitectura de software a bajo nivel** y mi capacidad para aplicar conceptos avanzados de la Programación Orientada a Objetos en entornos de consola.
 
